@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card - My final Product
 
-![Design preview for the Order summary card coding challenge](./design/myFinalProduct.jpg)
+![Design preview for the Order summary card coding challenge](./design/myFinalProduct.jpeg)
 
 ## Welcome! 👋
 
